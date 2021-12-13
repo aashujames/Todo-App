@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+section{
+    width: 360px;
+    border: 2px solid #ccc;
+    margin: 50px auto;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    border: 1px solid grey;
+    padding: 5px;
+}
